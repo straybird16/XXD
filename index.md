@@ -8,7 +8,7 @@ Recent projects include wearable pain assessment in older adults, senior-inclusi
 
 I am especially interested in representation learning, physiological signal analysis, and machine learning methods that are robust in real-world settings.
 
-[GitHub](https://github.com/straybird16)￼ · [Projects](./projects.html)￼ · [CV](./assets/files/CV.pdf)￼ · [LinkedIn](https://www.linkedin.com/in/xiangdong-xie-9621a4200/)￼ · [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=o9N_NpcAAAAJ)￼ · [Email](mailto:soaroriental@gmail.com)￼
+[GitHub](https://github.com/straybird16) · [Projects](./projects.html) · [CV](./assets/files/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/xiangdong-xie-9621a4200/) · [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=o9N_NpcAAAAJ) · [Email](mailto:soaroriental@gmail.com)
 
 ## Selected Work
 
