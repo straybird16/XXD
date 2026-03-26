@@ -1,4 +1,4 @@
-# Xiangdong Xie
+# Xiangdong (Peter) Xie
 
 *Building machine learning methods for messy, real-world signals. Exploring neural networks that build upon the biology of human brain.*
 
