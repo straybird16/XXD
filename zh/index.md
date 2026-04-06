@@ -15,7 +15,7 @@ title: 个人简介
 
 我特别关注表征学习、生理信号分析，以及在真实应用环境中具有稳定性的机器学习方法。
 
-[GitHub](https://github.com/straybird16) · [项目](./projects.html) · [简历](../assets/files/CV.pdf) · [领英](https://www.linkedin.com/in/xiangdong-xie-9621a4200/) · [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=o9N_NpcAAAAJ) · [邮箱](mailto:soaroriental@gmail.com)
+[GitHub](https://github.com/straybird16) · [项目](./projects.html) · [简历](../assets/files/jianli.pdf) · [领英](https://www.linkedin.com/in/xiangdong-xie-9621a4200/) · [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=o9N_NpcAAAAJ) · [邮箱](mailto:soaroriental@gmail.com)
 
 # 代表性工作
 
